@@ -1,0 +1,111 @@
+        td.color_left
+            {
+                border-left: 1px solid red;
+            }
+        td.color_right
+            {
+                border-right: 1px solid red;
+            }
+            
+        textarea.viv_write
+            {
+                width: 390px;
+                position: absolute;
+                top: 140px;
+                background: transparent;
+                left: 110px;
+                border: none;
+                height: 580px;
+                font-size: 21px;
+                resize: none;
+                line-height: 1.5;
+            }
+        textarea.viv_write:focus
+            {
+                outline: none;
+            }
+            
+        .vibhu_bar
+            {
+                border-radius: 16px;
+                margin-right: 20px;
+                border: 1px solid red;
+                font-size: 12px;
+            }
+            
+        @font-face
+            {
+                font-family: "vibhu_notebook";
+                src: url("../fonts/Tintoretto.woff"); 
+            }
+            
+        .vibhu_brand
+            {
+                text-align: right;
+                position: absolute;
+                z-index: 99;
+                color: red;
+                top: 2px;
+                width: 330px;
+                font-family: vibhu_notebook;
+                font-size: 20px;
+                font-weight: 600;
+                    
+              
+            }
+            
+        .hidder
+            {
+                text-align: right;
+                margin-right: 45px;
+                position: relative;
+                color: red;
+                background: #fff;
+                height: 4px;
+                top: 3px;
+                left: 98px;
+                margin: auto;
+                width: 70px;
+            }
+            
+            input.area_page_no
+            {
+                width: 70px;
+                font-size: 10px;
+                border: none;
+                background: #eee;
+                margin-left: 5px;
+                padding-left: 5px;
+                padding-right: 5px;
+                border-radius:20px; 
+            }
+            
+            input.area_date
+            {
+                width: 100px;
+                font-size: 10px;
+                padding-left: 5px;
+                margin-left: 5px;
+                background: #eee;
+                border: none;
+                border-radius: 20px;
+}
+            
+            .vibhu_panel
+            {
+                border-bottom:1px solid red;padding-top:20px;padding-bottom: 12px;
+            }
+            
+            .vibhu_panel_pageno
+            {
+                padding:10px 8px 8px 8px;border-bottom: 1px solid red;border-top: none;border-left: none;border-right: none;color:red;display:flex;
+            }
+        
+            
+            .vibhu_panel_date
+            {
+                border:none;padding:4px 4px 4px 8px;color:red;display:flex;
+            }
+        
+        
+        
