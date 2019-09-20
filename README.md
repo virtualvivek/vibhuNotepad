@@ -1,15 +1,12 @@
 <img align="left" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview1.PNG" width="380" /> 
-
 <p><h1 align="left">Vibhu Notepad</h1></p>
 
 <h4>A notebook inspired notepad application written in pure html and css.</h4>
-
 
 ___
 
 ## Features
 
-    ​​​​​
     > Notebook look and feel.
   
     > Easy installation in web pages.
@@ -17,7 +14,6 @@ ___
     > Page no. and date are automatically maintained.
   
     > Optional heading feature.
-    
     ​​​​​
 
 
@@ -27,9 +23,9 @@ ___
 
 
 ### Status
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
-![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
+
 
 
 
