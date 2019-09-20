@@ -9,20 +9,34 @@ ___
 
 ## Features
 
+    ​​​​​
+    > Notebook look and feel.
+  
+    > Easy installation in web pages.
+  
+    > Page no. and date are automatically maintained.
+  
+    > Optional heading feature.
+    
+    ​​​​​
 
-### Status
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vivekverma007/Vibhu_notepad.svg?color=yellow)
 
-![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
 <img align="right" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview2.gif" width="380" /> 
+
+
+
+### Status
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)
+
+![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
 
 
 ## Installation
 
 * #### Add `vibhu_notepad` folder in your target project file.
-* #### include 
+* #### include -
 
 ```php
 <?php include 'vibhu_notepad/index.html';?>
