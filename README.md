@@ -14,14 +14,12 @@ ___
     > Easy installation in web pages.
   
     > Page no. and date are automatically maintained.
-    ​​​​​
-
+    
 
 
 <img align="right" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview2.gif" width="380" /> 
 
-
- ​​​​​
+​​​​​
 ### Status
 ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Beta-darklime.svg?style=flat)
 
