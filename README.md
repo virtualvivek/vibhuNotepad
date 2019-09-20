@@ -7,7 +7,6 @@
 ___
 
 ## Features
-
     > Notebook like look and feel.
     
     > Optional top heading feature.
@@ -15,8 +14,6 @@ ___
     > Easy installation in web pages.
   
     > Page no. and date are automatically maintained.
-  
-   
     ​​​​​
 
 
