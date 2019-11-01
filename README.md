@@ -7,13 +7,14 @@
 ___
 
 ## Features
-    > Notebook like look and feel.
+
+`Notebook like look and feel.`
     
-    > Optional top heading feature.
+`Optional top heading feature.`
   
-    > Easy installation in web pages.
+`Easy installation in web pages.`
   
-    > Page no. and date are automatically maintained.
+`Page no. and date are automatically maintained.`
     
 
 
@@ -21,7 +22,7 @@ ___
 
 ​​​​​
 ### Status
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/release-v.1.0Stable-darklime.svg?style=flat)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/Release-v.1.0Stable-darklime.svg?style=flat)
 
 
 
