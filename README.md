@@ -1,10 +1,11 @@
 <img align="left" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview1.PNG" width="380" /> 
 
-<p><h1 align="left top">📄 Vibhu Notepad</h1></p>
+<h2 align="left top">📄 Vibhu Notepad</h2>
 
 <h4>A notebook inspired notepad application written in pure html and css.</h4>
 
-___
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/Release-v.1.0Stable-darklime.svg?style=flat)​​​​​ ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+<p></p>
 
 ## Features
 
@@ -21,11 +22,6 @@ ___
 <img align="right" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview2.gif" width="380" /> 
 
 ​​​​​
-### Status
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/Release-v.1.0Stable-darklime.svg?style=flat)
-
-
-
 
 
 ## Installation
