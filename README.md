@@ -2,7 +2,7 @@
 
 <h2 align="left top">📄 Vibhu Notepad</h2>
 
-<h4>A notebook inspired notepad application written in pure html and css.</h4>
+<h4>A school notebook inspired notepad application written in pure html and css.</h4>
 
 ![GitHub code size in bytes](https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange)  ​​​​​ ![GitHub release](https://img.shields.io/badge/Release-v.1.0Stable-darklime.svg?style=flat)​​​​​ ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 <p></p>
@@ -32,9 +32,7 @@
 <?php include 'vibhu_notepad/index.html';?>
 ```
 
-
-
-### Browser Compatibility
+## Browser Compatibility
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | 9.1+ ✔ | Latest ✔ |
