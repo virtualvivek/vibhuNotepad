@@ -2,6 +2,7 @@
             {
                 border-left: 1px solid red;
             }
+
         td.color_right
             {
                 border-right: 1px solid red;
@@ -20,6 +21,7 @@
                 resize: none;
                 line-height: 1.5;
             }
+
         textarea.viv_write:focus
             {
                 outline: none;
@@ -50,9 +52,7 @@
                 font-family: vibhu_notebook;
                 font-size: 20px;
                 font-weight: 600;
-                    
-              
-            }
+             }
             
         .hidder
             {
@@ -89,7 +89,7 @@
                 background: #eee;
                 border: none;
                 border-radius: 20px;
-}
+             }
             
             .vibhu_panel
             {
@@ -100,8 +100,7 @@
             {
                 padding:10px 8px 8px 8px;border-bottom: 1px solid red;border-top: none;border-left: none;border-right: none;color:red;display:flex;
             }
-        
-            
+       
             .vibhu_panel_date
             {
                 border:none;padding:4px 4px 4px 8px;color:red;display:flex;
