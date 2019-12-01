@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview1.PNG" width="380" /> 
 
-<h2 align="left top">📄 Vibhu Notepad</h2>
+<h2 align="left top">📖 Vibhu Notepad</h2>
 
 <h4>A school notebook inspired notepad application written in pure html and css.</h4>
 
