@@ -1,5 +1,5 @@
 
-<h2 align="center"> <img src="https://github.com/vivekverma007/ios-13-Calculator/blob/master/preview/app_title.png" width="340" /> </h2>
+<h2 align="center"> <img src="https://github.com/vivekverma007/vibhu_notepad/blob/master/preview/app_title.png" width="340" /> </h2>
 
 <p align="center">
 	<a href="https://angularjs.org">
