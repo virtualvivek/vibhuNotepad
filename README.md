@@ -38,16 +38,17 @@
 <img align="left" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview1.PNG" width="380" /> 
 
 
-
+### A light weight notebook layout ,can easily embedd in html css environment .
+​
 ## Features
 
-`Notebook like look and feel.`
+#### Notebook like look and feel.
     
-`Optional top heading feature.`
+#### Optional top heading feature.
   
-`Easy installation in web pages.`
+#### Easy installation in web pages.
   
-`Page no. and date are automatically maintained.`
+#### Page no. and date are automatically maintained.
     
 
 
