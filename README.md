@@ -38,8 +38,8 @@
 <img align="left" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview1.PNG" width="380" /> 
 
 
-### A light weight notebook layout ,can easily embedd in html css environment .
-​
+#### A light weight notebook layout ,can easily embedd in html css environment .
+### ⚡ Live Demo : [virtualiz.me/vibhu_notepad](https://virtualizme-cals.netlify.com/)
 ## Features
 
 #### Notebook like look and feel.
