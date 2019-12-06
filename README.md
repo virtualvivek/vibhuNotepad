@@ -50,7 +50,9 @@
   
 #### Page no. and date are automatically maintained.
     
-
+​
+​
+​
 
 <img align="right" src="https://github.com/vivekverma007/Vibhu_notepad/blob/master/preview/Preview2.gif" width="380" /> 
 
