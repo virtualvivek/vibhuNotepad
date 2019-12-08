@@ -39,7 +39,7 @@
 
 
 #### A light weight notebook layout ,can easily embedd in html css environment .
-### ⚡ Live Demo : [virtualiz.me/vibhu_notepad](https://virtualizme-cals.netlify.com/)
+### ⚡ Live Demo : [virtualiz.me/vibhu_notepad](https://virtualizmepagelayout.netlify.com/)
 ## Features
 
 #### Notebook like look and feel.
