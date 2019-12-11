@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/github/repo-size/vivekverma007/Vibhu_notepad.svg?color=orange"
       alt="Repo. Size" />
   </a>
-  	<a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg"
+  	<a href="https://github.com/vivekverma007/Vibhu_notepad/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vivekverma007/Vibhu_notepad.svg?color=blue"
       alt="License: MIT" />
   </a>
   	<a href="https://github.com/vivekverma007/Vibhu_notepad">
-    <img src="https://img.shields.io/badge/Release-v.1.0Stable-darklime.svg?style=flat"
+    <img src="https://img.shields.io/github/v/tag/vivekverma007/Vibhu_notepad"
       alt="Release" />
   </a>
   
