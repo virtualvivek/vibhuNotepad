@@ -25,6 +25,11 @@
       alt="Release" />
   </a>
   
+  <a href="https://virtualizme-cals.netlify.com">
+    <img src="https://img.shields.io/badge/⚡ live demo-here-green.svg?style=flat"
+      alt="Demo" />
+  </a>
+  
   <h3 align="center">A school notebook inspired notepad application written in pure html and css.</h3>
 
 </p>
