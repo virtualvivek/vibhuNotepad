@@ -21,7 +21,7 @@
   </a>
   
  
-  <a href="https://virtualizme-cals.netlify.com">
+  <a href="https://virtualizmepagelayout.netlify.com/">
     <img src="https://img.shields.io/badge/⚡ live demo-here-green.svg?style=flat"
       alt="Demo" />
   </a>
