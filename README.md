@@ -61,14 +61,14 @@
 
 
 ## Installation
-* #### Add `vibhu_notepad` folder in your target project file.
-* #### Include notepad layout where you want to add between your code using preprocessing language -
+ #### Add `vibhu_notepad` folder in your target project file.
+ #### Include notepad layout where you want to add between your code using preprocessing language -
 
 ```php
 <?php include 'vibhu_notepad/notepad.html';?>
 ```
 ### OR
-* #### Directly Copy the html source code where you want.
+ #### Directly Copy the html source code where you want.
 
 ## Browser Compatibility
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)
