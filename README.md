@@ -67,7 +67,7 @@
 ```php
 <?php include 'vibhu_notepad/notepad.html';?>
 ```
-### OR
+### -OR-
  #### Directly Copy the html source code where you want.
 
 ## Browser Compatibility
