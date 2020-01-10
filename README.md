@@ -77,3 +77,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | 9.1+ ✔ | Latest ✔ |
 
 ### License
 vibhuNotepad is licensed under `MIT LICENSE`
+Copyright (c) 2019 @vivekverma007
