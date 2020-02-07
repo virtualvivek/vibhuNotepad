@@ -16,7 +16,7 @@
       alt="License: MIT" />
   </a>
   	<a href="https://github.com/vivekverma007/Vibhu_notepad">
-    <img src="https://img.shields.io/github/v/tag/vivekverma007/Vibhu_notepad.svg?color=darklime"
+    <img src="https://img.shields.io/badge/Release-v1.1-darklime.svg?style=flat"
       alt="Release" />
   </a>
   
